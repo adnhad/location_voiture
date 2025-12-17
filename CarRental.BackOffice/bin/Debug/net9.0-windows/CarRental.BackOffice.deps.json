@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CarRental.BackOffice/1.0.0": {
+        "dependencies": {
+          "CarRental.Data": "1.0.0",
+          "CarRental.Services": "1.0.0"
+        },
+        "runtime": {
+          "CarRental.BackOffice.dll": {}
+        }
+      },
+      "CarRental.Data/1.0.0": {
+        "runtime": {
+          "CarRental.Data.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CarRental.Services/1.0.0": {
+        "dependencies": {
+          "CarRental.Data": "1.0.0"
+        },
+        "runtime": {
+          "CarRental.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CarRental.BackOffice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarRental.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CarRental.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

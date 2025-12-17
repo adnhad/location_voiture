@@ -1,0 +1,15 @@
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\bin\Debug\net9.0\CarRental.Services.deps.json
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\bin\Debug\net9.0\CarRental.Services.dll
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\bin\Debug\net9.0\CarRental.Services.pdb
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\bin\Debug\net9.0\CarRental.Data.dll
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\bin\Debug\net9.0\CarRental.Data.pdb
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.csproj.AssemblyReference.cache
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.AssemblyInfoInputs.cache
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.AssemblyInfo.cs
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.csproj.CoreCompileInputs.cache
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRenta.C254CAFA.Up2Date
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.dll
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\refint\CarRental.Services.dll
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.pdb
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\ref\CarRental.Services.dll
