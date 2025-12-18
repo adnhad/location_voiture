@@ -8,6 +8,7 @@ C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\ne
 C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.AssemblyInfoInputs.cache
 C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.AssemblyInfo.cs
 C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.csproj.CoreCompileInputs.cache
+C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.sourcelink.json
 C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRenta.C254CAFA.Up2Date
 C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\CarRental.Services.dll
 C:\Users\adnha\RiderProjects\CarRentalManagement\CarRental.Services\obj\Debug\net9.0\refint\CarRental.Services.dll

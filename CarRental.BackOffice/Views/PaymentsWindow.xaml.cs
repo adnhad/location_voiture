@@ -1,11 +1,20 @@
-﻿using System.Windows;
+﻿using CarRental.BackOffice.ViewModels;
+using System.Windows;
 
-namespace CarRental.BackOffice.Views;
-
-public partial class PaymentsWindow : Window
+namespace CarRental.BackOffice.Views
 {
-    public PaymentsWindow()
+    public partial class PaymentsWindow : Window
     {
-        InitializeComponent();
+        public PaymentsWindow()
+        {
+            InitializeComponent();
+        }
+
+        private void BackButton_Click(object sender, RoutedEventArgs e)
+        {
+            var dashboard = new DashboardWindow();
+            dashboard.Show();
+            this.Close();
+        }
     }
 }
